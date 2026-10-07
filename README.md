@@ -1,4 +1,5 @@
 ## Hi there 👋
+## THIS IS FOR SCHOOL PURPOSE ONLY
 
 <!--
 **jluo6/jluo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
