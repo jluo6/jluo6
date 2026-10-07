@@ -1,5 +1,13 @@
 ## Hi there 👋
 ## THIS IS FOR SCHOOL PURPOSE ONLY
+## I went to school at Lincoln Park High School
+## The first piece of techonology I owned was probabaly a samsung phone
+## My home town is Chicago
+## I am intrested in studying in Robotics Engineering 
+## My name is Jinghan I am currently a junior in Lincoln Park high school, I was born in China 2010 Feb 1st. And I am currently in the FTC robtics team trying to achieve our 7th consecutive year in States championship 
+
+FTC-Logo:
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDZGBTRsRfoEYxo7vyWRbT9nRPXVzdITgtwXHJ42_SQ&s=10 "logo title text 1")
 
 <!--
 **jluo6/jluo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
