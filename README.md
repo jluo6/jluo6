@@ -2,7 +2,7 @@
 ## My name is Jinghan HE/HIM I am currently a junior in Lincoln Park high school, I was born in China 2010 Feb 1st my home town is Gucheng County, Hebei. Went to Robert Healy Elementary School for 1st-8th grade and my very first piece of techonology I owned was probabaly a samsung phone. Very intrested in studying in Robotics Engineering, currently in the FTC robtics team 17403 trying to achieve our 7th consecutive year in States championship 
 
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWDZGBTRsRfoEYxo7vyWRbT9nRPXVzdITgtwXHJ42_SQ&s=10 "logo title text 1")
-![alt text](https://3.files.edl.io/2171/24/03/27/132053-53fe2480-ed22-4ee8-8e16-bdb887f96b24.png "logo title")
+![alt text](https://3.files.edl.io/2171/24/03/27/132053-53fe2480-ed22-4ee8-8e16-bdb887f96b24.png "logo title text 2")
 
 <!--
 **jluo6/jluo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
